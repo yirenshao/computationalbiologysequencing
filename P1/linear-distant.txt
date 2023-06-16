@@ -1,0 +1,428 @@
+
+Alignment #1
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 180
+Percent Identity: 0.5056179775280899
+Indels: number=79  mean length=1.7
+Alignment length:356
+Score=724
+
+
+
+AAAAACAC---T---CCTTTGGCTCCCGATTTAATACAATCCGCGTACAG
+     ||*   |   ||**|| |||    |||||  ||* |||  |||  
+-----CATGAATAAACCCCTG-CTC----TTTAA--CAG-CCG--TAC--
+
+TGAGGCGGCGGG-CC-CG-A-TTACA--GATTACAGG--GGGC------C
+||   ||| *|* || || | ||| |  ||||||||*  *  |      |
+TG---CGG-AGAACCTCGCAGTTA-AAAGATTACAGATTA--CATTTAAC
+
+GGTT-T-TAGTACG-A-TAT---C--CT-C-G---A-A--G--CCG-CAT
+||*| | |*||||  | ||    |  || | |   | |  |  ||| | *
+GGCTCTCTGGTAC-CACTA-AAACGGCTTCTGCTTACACTGTTCCGTC-C
+
+GCGGCCGGCCTATG--C-TGAACC-----CCGGCTTCT-TTAAGCCC-TA
+ |||  ||* || |  | ||*|*|     |||||* || *|**|    ||
+-CGG--GGT-TA-GAGCATGGATCAGGGTCCGGCC-CTACTGGG---GTA
+
+GACATTAGACATGGGAGGCC--TAT-AAAC-T-GTAATCTAT-CAG-ATC
+||||||||||||      ||  | | *| | | ||**||||| ||  |||
+GACATTAGACAT------CCCCT-TTGA-CCTAGTGGTCTATACA-TATC
+
+--TCTATC-TGCTAAT-TT----TATCATCGTAGACCTT-TTTCAAAGGC
+  |||||  ||| | | ||    ||  ||  || |* || ||| *| |*|
+AGTCTAT-GTGC-A-TCTTCCCCTA--AT--TA-AT-TTGTTT-GA-GAC
+
+AGACTCCATCCATCTT-A--GC-G-G--TTAG-T-CGCTTTCGACCCCCT
+|*|    ||*|| ||| |  || | *  **|| | |*|*  | |||||*|
+AAA----ATTCA-CTTTACCGCCGCAAACCAGGTACACC--C-ACCCCTT
+
+CGTGA-
+  |   
+--T--C
+
+Alignment #2
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 185
+Percent Identity: 0.5082417582417582
+Indels: number=93  mean length=1.6
+Alignment length:364
+Score=746
+
+
+
+GAGACCG-AGGTTTCT-TGAC-ACGGTAG-AA-TCCGTAAGTATAGTCGT
+*|| *|| || ** || || | |*| *|| || ||  |||  || || ||
+CAG-TCGGAG-CC-CTGTG-CCATG-CAGCAACTC--TAA--AT-GT-GT
+
+ACG-T-AGACAAATTGCCGACCG--GG-G-T----TT--A--AATT---G
+ || | *| |     ||||*|*|  || | |    ||  *  | ||   |
+-CGGTTGG-C-----GCCGGCTGATGGAGGTACAGTTCTGTTA-TTTCTG
+
+-A--CGTCCCCCGT-GATGTGAATT--CT---CC-T--CG-CAGTGG-CG
+ |  ||||*||* | || | *||    |    |  |  || || |   ||
+GATACGTCTCCT-TTGA-G-AAA--GAC-GGGC-GTAACGACA-T--TCG
+
+--C-CCC---GATTACAGATTACAGGGAGAGTTCTCGAACCA-TT--TCT
+  | ||*   ||||||||||||||       || | |  ||  ||  |||
+AACACCTAAAGATTACAGATTACA-------TT-T-G--CC-CTTGATCT
+
+TCA-A-AATT-GCA--T-GGTTT-TT-T-----T-GA--CTT-TCT----
+||| * | || |||  | | ||| || |     | ||  ||| | |    
+TCATGCA-TTTGCACCTCG-TTTGTTATCAAAATTGAGTCTTGT-TGGAA
+
+TTATT-TACGTGCCC-TAGACATTAGACATGGGGGCTC-T---CGC-TTC
+|| || ||*| |    ||||||||||||||     |*| |   |*| | |
+TT-TTATATG-G---GTAGACATTAGACAT-----CCCCTAAACACGT-C
+
+TGCCG--A--AA-AAGCTGCACGGGTGTCACTATA--TGACTTAGCG---
+ |||   |  || | | |  |*|||| | | |* *  ||| |* |||   
+-GCC-CCATTAACA-G-T--ATGGGT-T-A-TG-GGCTGA-TC-GCGGGG
+
+CGG--C-A-G-CT-
+|*|  | | | || 
+CAGTTCGATGTCTC
+
+Alignment #3
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 179
+Percent Identity: 0.5327380952380952
+Indels: number=85  mean length=1.5
+Alignment length:336
+Score=738
+
+
+
+GGGCGCCAA-GCCTA-ATTAGCCGTGACAC---TTGACGTG-CCC-TCTA
+**| |* |  ||*|| || | |**||*||    || | ||| *|  ||| 
+AAG-GT-A-TGCTTATAT-A-CTATGGCA-AGATT-A-GTGGTC-GTCT-
+
+CCTTAT--GGGT-TGCATCGTA-GAT-AGGTGTATTTAAGGGTTCGTTAA
+*|| ||  |||| ||  |||** ||| ||* | ||*   || |  || *|
+TCT-ATCTGGGTCTG--TCGCGCGATGAGA-G-ATC---GG-T--GT-GA
+
+-TATGGTGGCC-TCAGGC-TTATGG-AAG-CCC-GATTACAGATTACAGG
+ |||     || |* | | | | || ||| ||| ||  | ||||||||| 
+CTAT-----CCGTT-G-CGT-A-GGCAAGACCCCGA--A-AGATTACAG-
+
+GCAGCTTGCCC-TTCTT-TCT--GG-AGGGCCA-TGTCGGA-GTTAAGCG
+  |  ||*|   || || ||*  || ||*||*| | ||  | |  | || 
+--A--TTAC--ATT-TTGTCCCCGGGAGAGCTACT-TC--ACG--A-GC-
+
+GATG-GC-T--C--TTCA--G-AATG--C-TGTTCT-G-C-CG---ACGC
+ ||| || |  |  |||*  | |* |  | ||||*| | | ||   | | 
+-ATGTGCCTTACCATTCGCTGCAG-GGTCGTGTTTTCGTCACGGGTA-G-
+
+GCCC-----TAGACATTAGACAT---GGGTCAA-GACTGAA-GCC---TT
+|        ||||||||||||||   |  |*|| |*  ||| *||   ||
+G---AGGGGTAGACATTAGACATCCCG--TTAACGG--GAATACCGAATT
+
+ATGGACTATGCAGC-A-A-TAAACGTA-AT-AGGGT
+ |* |  | ||| | | | ||  |||| || |||  
+-TA-A--A-GCA-CTAGAGTA--CGTACATTAGG--
+
+Alignment #4
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 188
+Percent Identity: 0.5325779036827195
+Indels: number=91  mean length=1.4
+Alignment length:353
+Score=775
+
+
+
+TC-T-AGGCGGATC-G-A-AATTCGCCCGATTACAGATTACAGGGAACTT
+ * | || |||||| | | ||   *   ||||||||||||||     *||
+-TGTCAG-CGGATCAGGACAA---A---GATTACAGATTACA-----TTT
+
+-TG-G-A-A----TAA--ATTTGG---C----T----TCC--ATAGAAGA
+ || | | |    |||  |** ||   |    |    |||  | |*|| |
+ATGTGCATACACGTAACCACC-GGAGGCGCGGTAAGCTCCCGA-AAAA-A
+
+GTTGTACCAACAACTC-ACCTACGGACGCA-GG-GGACCC-CC---TAGA
+ ||*||  | |  ||| |* ||*|| |||| ** |  ||* |    ||||
+-TTATA--A-C--CTCTAT-TATGG-CGCACAATG--CCTAC-GGGTAGA
+
+CATTAGACAT---GGGCATACCAGGATA---CCCCGTT--GGC-TA-GCG
+||||||||||   |||*|| |  ||| |   |** *||  ||* || || 
+CATTAGACATCCCGGGTAT-C--GGA-AAAGCTT-ATTCAGGTGTAAGC-
+
+CATC-AAC-CA-GTA-CGGTACTTCCGAGCCTT-ACGTA-A--T-TTTCG
+|  | ||| |  ||  ||  ||| |*|| |||| || || |  | |||| 
+C--CTAACTC-CGT-TCG--ACT-CTGA-CCTTCAC-TACACGTATTTC-
+
+TCTAATAATAACGCTGGTGC--CAGTT-T-CCAGC-G-AGTCGGTG-C-C
+|| | ** ||  | || | |  || || | | | | | | |   || | |
+TC-A-CG-TA--G-TG-T-CATCA-TTATAC-A-CCGCA-T---TGACTC
+
+TGAGACTA-CGTTCG-C-C--TG-AG-CACGCCTTGGACGG--T-CA--T
+|||||| * ||  || * *  || || | ||||*|||||    | ||  |
+TGAGAC-GGCG--CGGTATAATGGAGGC-CGCCCTGGAC--CCTTCACCT
+
+---
+   
+CGA
+
+Alignment #5
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 186
+Percent Identity: 0.5254237288135594
+Indels: number=92  mean length=1.5
+Alignment length:354
+Score=762
+
+
+
+TGACCCG--CCC-GAA-CCGAATT-GTCTTG-TAGT-GAGCTCTCAGGTG
+ | ||||  |   ||  || | |  |||  | | || || | | ||| *|
+-G-CCCGAGC--AGA-TCC-A-T-AGTC--GGT-GTTGA-C-C-CAG-CG
+
+GACACCA--CCCC------GATTACAGATTACA---G-GGATCCC-T--T
+ || *||  ||        ||||||||||||||   | |  |*|  |  |
+-AC-TCAGACC--AAAAAAGATTACAGATTACATTTGTG--TTC-ATAGT
+
+TA-GGTCCTG-TT-GG-GGCAA-CCTA-CCCA-T-GC-G-G----ATTCT
+ | |||  || || |* | *|| |  | |||| | *| | |    |*|||
+-ACGGT--TGATTCGATG-TAAGC--ATCCCAGTCACAGTGCTCCACTCT
+
+TAGCTG-C-C--T-GAAGGTA-ACC-TTA--C--CCTAGACAT-TAGACA
+| | || | |  | |  |||| ||  |||  |  ||    ||| || || 
+T-G-TGTCACGGTTG--GGTAGAC-ATTAGACATCC----CATCTA-AC-
+
+TGGGCTAT-GCCTGCAATCAG---GTTTG--TTGTGG--AGCGCACCTC-
+ || |*|| || ||*||| ||   ||||   ||*|||  *|*|||* || 
+-GG-CCATAGC-TGTAAT-AGACTGTTT-CCTTATGGCTGGTGCAT-TCA
+
+T-GTTTTAT--GGCAG-T--GTG-G-G--GAATCG-CGGTATCT-GACTT
+| ||***|   || || |  ||| | |  |||| | |** | || ||   
+TCGTCCCA-AAGG-AGGTCTGTGAGAGCAGAAT-GGCAA-A-CTCGA---
+
+GGAATCAC-TTTG-CAAATGGCAGTCCGCCATC-GA-ACAGGACCTG---
+||**  *  || | |   || |  *||||* || |* || || ||||   
+GGGG--G-GTT-GTC---TG-C--CCCGCT-TCTGGTAC-GG-CCTGTTT
+
+G--T
+|  |
+GACT
+
+Alignment #6
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 179
+Percent Identity: 0.5014005602240896
+Indels: number=93  mean length=1.6
+Alignment length:357
+Score=717
+
+
+
+GGGGGGGC-GGT--GG---C-CACAA-CAG-GAGGCT--ATG--AATCTG
+       | |||  ||   | | |*| | | ||  ||  |||  ||||* 
+-------CTGGTCTGGTTGCGC-CGATC-GCGA--CTCGATGGCAATCC-
+
+TGAAAGGCGTTGGGA-CGACGAGGACTGACTCCA-CG-TTTA--T-GTTC
+  || |   | *|   ||| | || | ||| ||  || || |  | || |
+--AA-G---T-AG--TCGA-G-GG-C-GAC-CC-TCGGTT-AAATAGT-C
+
+TC-GATTG--AATG-TC--TGCG-TTTA--TCCGACCC--GATTACAGAT
+   |**||  |  | ||  | |* || |  |* ||     ||||||||||
+--AGGCTGCCA--GCTCAAT-CAATT-AAGTT-GA---AAGATTACAGAT
+
+TACAGGGCT-C--T---AGGGTCTGT-GAGATTCTGCGGCGT-T-GTG-C
+||||   *| |  |   |*|||*||| |   | | |||||*| | ||| *
+TACA---TTTCCCTGTTAAGGTTTGTCG---T-C-GCGGCATCTCGTGGT
+
+CGGCTATAAACCGCCCCATGGCTGGGCACGAAGTCGATTGTCCCTAGACA
+ || |* |  ||*||   |||  |||   ||| ||  ||  |*|  || |
+-GG-TG-A--CCACC---TGG--GGG---GAA-TC--TT--CTC--GA-A
+
+TTAGA-CAT--GGG--A--CGT--G-CAATCCCATGATT-C---C--A-A
+*| || |||  |||  |  |*|  | || |||| |  || |   |  | |
+CT-GAGCATAAGGGGTAGACATTAGACA-TCCC-T--TTACGGGCCTAGA
+
+GTCTCCGGTAGCGC------GACC-TT-CC--GGA--CC-TCAAC-TATG
+| ||  || || |*      |||| || ||  **|  || | | | | |*
+G-CT--GG-AG-GTTAATAAGACCCTTGCCCCAAATTCCGT-A-CGT-TA
+
+G--A-G-
+   | | 
+-CCACGC
+
+Alignment #7
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 183
+Percent Identity: 0.5304347826086957
+Indels: number=85  mean length=1.4
+Alignment length:345
+Score=753
+
+
+
+ATGAGTTATTTT-T-CAATGATAGA-TAAA--GGT---ATT-AAGTGC-A
+*|*|*| |**|* | ||| || |*| ||||  |||   ||| | |* | |
+GTAAAT-ACCTCCTGCAA-GA-AAAGTAAATAGGTGGTATTTA-GC-CCA
+
+-C-T-CCA--T-TA-G--AAGACCCCTGGAGTACCCTGCGCG-AAACGTA
+ | | |||  | |* |  ||*|*||  ||| | *|  || || |*|| ||
+TCCTTCCAAGTATGTGGCAAAATCC--GGA-T-TC--GC-CGCAGAC-TA
+
+A-CC-GACC-AAC-G-ACTTGCGCCG--G-ATAG---AGCCGACCC-GAT
+* || ||   ||| | |||*|||*||  | |*||   ||| *|    |||
+GTCCAGA--GAACTGGACTCGCGTCGTTGGACAGTCCAGC-AA---AGAT
+
+TACAGATTACA---GGGCAAACCCGTACGCT-GG--ACTG-AGAG-TT-T
+|||||||||||   |  *   ** || ||   ||  |||  | || || |
+TACAGATTACATTTG--T---TT-GT-CG--AGGTTACT-CA-AGCTTAT
+
+--T-TGCGTAGTTAAA-AAA-C--TC-ATTC-A-CCC-GGTGG--G-C-T
+  | |*|| ||||*|* **| |  || *||| | ||| || ||  | | |
+CATATACG-AGTTGAGCGGATCCATCCGTTCCAACCCCGG-GGTAGACAT
+
+CT-G---TCCCC-TAG-AC-A--T-TA-GA--CATGGGGGGTCTAAAATA
+ | |   ||||  ||| || |  | |  |   || ||||     ||||| 
+-TAGACATCCC-GTAGTACCACGTGT-CG-TTCA-GGGG-----AAAAT-
+
+AGGGGTAGCCGCGCTGCA-TGCGTAGGAAGGCTGGTGTGGAGCAT
+ |||  ||*|| | || | || |  ||  |||*** | ||     
+-GGG--AGTCG-G-TG-ACTG-G--GG--GGCCAA-G-GG-----
+
+Alignment #8
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 183
+Percent Identity: 0.5126050420168067
+Indels: number=90  mean length=1.5
+Alignment length:357
+Score=741
+
+
+
+CCCA-GG----GC---T---C-CC-A-CG---G-C--GGA--G-----A-
+***| ||    *|   |   | || | ||   | |  |*|  |     | 
+GGGATGGTTTTACACATTAACACCCAACGCTCGGCTTGAACAGGTTTTAG
+
+A-T--ATGAGCGTTTCG-CGC-ATTACGA-A-AAAT-TGCACACTTACGA
+| |  ||*| |||  || ||| |*| ||* | |*|* |||| ||*| |  
+ACTGGATAA-CGT--CGGCGCTACT-CGGCACAGACGTGCA-ACCT-C--
+
+TGCTAGTA---GAACGGAATGC-C--CTCA-GC-C-TCA--CAGCTCCTG
+||  |  |   ||  ||||| * |  |||  || | |||  | | |  ||
+TG--A--ACCCGA--GGAAT-TTCGACTC-CGCGCATCATTC-G-T--TG
+
+CATAAT-CCTAT-CCGCGCAAGG----TGGCG---C-TCCAG-GTCTCGG
+ *|* | |  || || |||||||    ||* |   | |  *| ||| || 
+-GTG-TGC--ATGCC-CGCAAGGAAAATGA-GAAACAT--GGTGTC-CG-
+
+GCGAAATTAAGCCCCCGATTACAGATTACA---GGGCGACGAGATACACA
+ |||||  | |      |||||||||||||   |  |  |*| ||* | |
+-CGAAA--A-G------ATTACAGATTACATTTG--C--CAA-ATG-A-A
+
+AA--GGTAAGGCCGAAGTACC-ACAGGT-CGCC-GCTG-T-AA--G--G-
+|   ||*| | |*|| | ||| *|*||| |||| || * | ||  |  | 
+A-TCGGCA-G-CTGA-G-ACCCGCGGGTACGCCAGC-AATCAAACGACGA
+
+TGCCTAGGGCC-TACAC-CCCC----TAGACATTAGACATGGGCC-GC-A
+| *|| || |  | | | |*      ||||||||||||||   || *| |
+T-TCT-GG-C-GT-C-CGCT--AGGGTAGACATTAGACAT---CCCACGA
+
+-AGATGG
+ ||*|| 
+CAGGTG-
+
+Alignment #9
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 181
+Percent Identity: 0.5127478753541076
+Indels: number=88  mean length=1.5
+Alignment length:353
+Score=733
+
+
+
+GGAACACAGAGCTTATGTGTCGCAGCCG-TTTC-A-G---GGAGGTGGCT
+ |  |*|| |    ||| ||*| | | * |||| | |   |    ||  |
+-G--CGCA-A----ATG-GTTG-A-C-AATTTCTATGCTTG----TG--T
+
+C---CGCCTCTTAGCG-TGGTGATTCTGTT--A-----CCAAT---CCTA
+|   |**||*|| |*| ||| | *| ||    |     ||||    | |*
+CAAACATCTTTT-GTGCTGG-G-CT-TG--GGAAAAAGCCAA-GGGC-TG
+
+CG-T--CTA-ATAGGGTTTGTAAA--GGAGTTGT--CGATTCCCCACTGA
+|| |  ||* |||   *| |||*|  ||  || |  ||*||||    | |
+CGATATCTGCATA---CT-GTAGACCGG--TT-TGGCGGTTCC----T-A
+
+ACTGTC-C-T-A-GCTC---TTT-CT--CC--C---GATTACAGATTACA
+||| || * | | *| |   ||* ||  ||  |   ||||||||||||||
+ACT-TCGTGTGACAC-CAAATTCACTTGCCAGCAAAGATTACAGATTACA
+
+GGGTTT----GA-TCC-AAGA--GT-AC---T--TAACTGGTTAC-TAT-
+   |||    || |*| || |  |* ||   |  || |*|*| || | | 
+---TTTACACGACTTCGAA-ATTGCGACAGATCCTA-CCGAT-ACCT-TG
+
+AAGTG-AGTCA--GGCTCTTTCAACG-G-TCACACCCCCC---TAGACAT
+||||  ||| *  || | ||  || * | |**| |*||     |||||||
+AAGT-TAGT-GTTGG-T-TT--AA-AAGATTGC-CTCC--GGGTAGACAT
+
+TAGACAT---G-G-GGACT-GCAACGCCACGGCGACTGTGCGG-T-CGAC
+|||||||   | | *|  | | |||||   | || | | | || | | ||
+TAGACATCCCGCGCAG--TAG-AACGC---G-CG-C-G-G-GGCTAC-AC
+
+-G-
+ | 
+TGC
+
+Alignment #10
+
+Sequence #1 distant seq1
+Sequence #2 distant seq2
+Marches: 158
+Percent Identity: 0.5096774193548387
+Indels: number=77  mean length=1.7
+Alignment length:310
+Score=638
+
+
+
+AAAGCGATCT-ATTT--GT--AGAGG-GA--GG-A-CATC---A-CACCG
+   ||| | | ||*   ||  | ||| ||  || | |**|   | *||||
+---GCG-T-TGATC-AAGTCTA-AGGAGATAGGGAACGCCTGTAGTACCG
+
+TGA-ATGGCTT-C-TAAAGGC-C---TGGCCA-TATTCTCCCACGCG-CG
+ |* ||  ||| | ||||  * |   |  | | |||| ||  | | | ||
+-GGCAT--CTTTCCTAAA--TTCAAAT--C-AGTATT-TC--A-G-GGCG
+
+T-CTGTA-GCATGC-CC---GATTACAGATTACA-----GGGCC-C-CCG
+  ||  | ||  || ||   ||||||||||||||     |  || * | |
+-ACT--ACGC--GCGCCAAAGATTACAGATTACATTTCTG--CCATAC-G
+
+CT--GG-TTC-A-ATGAGCCAA-GTTCAGTGCTCCCTCACCTGCTACGGG
+    || ||| * |*|||  |  |||  ||  ||| |     ||   || 
+--AAGGATTCCGCACGAG--A-TGTT--GT--TCC-T-----GC---GG-
+
+ACAGGG-TCG-CCCTAGTT--C-C-CTA--G--AC-AT-----TAGACAT
+|| |   ||| ||||||||  | | | |  |  || ||     |||||||
+AC-G--CTCGGCCCTAGTTAGCTCGC-ACCGCCACCATCGGGGTAGACAT
+
+GGGCACCTAT-ACAGTCCTCGATGGGGTGG--CG--A-AAAATTGAGC--
+       ||  ||| ||| || ||** |||  |   | |||   || |  
+-------TA-GACA-TCC-CG-TGAA-TGGTTC-TCACAAA---GA-CCA
+
+-GGAACTTTA
+ ||   |*  
+TGG---TC--
