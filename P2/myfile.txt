@@ -1,0 +1,40 @@
+MISMATCH KERNEL (KMER =3, CLUSTERS =3):
+CLUSTER 1:
+    intergenic =0.36 (213)
+    intron =0.29 (175)
+    exon =0.35 (210)
+CLUSTER 2:
+    intergenic =0.65 (217)
+    intron =0.16 (54)
+    exon =0.19 (62)
+CLUSTER 3:
+    intergenic =0.12 (70)
+    intron =0.48 (271)
+    exon =0.4 (228)
+MISMATCH KERNEL (KMER =3, CLUSTERS =3):
+CLUSTER 1:
+    intergenic =0.36 (213)
+    intron =0.29 (175)
+    exon =0.35 (210)
+CLUSTER 2:
+    intergenic =0.65 (217)
+    intron =0.16 (54)
+    exon =0.19 (62)
+CLUSTER 3:
+    intergenic =0.12 (70)
+    intron =0.48 (271)
+    exon =0.4 (228)
+
+MISMATCH KERNEL (KMER =3, CLUSTERS =3):
+CLUSTER 1:
+    intergenic =0.36 (213)
+    intron =0.29 (175)
+    exon =0.35 (210)
+CLUSTER 2:
+    intergenic =0.65 (217)
+    intron =0.16 (54)
+    exon =0.19 (62)
+CLUSTER 3:
+    intergenic =0.12 (70)
+    intron =0.48 (271)
+    exon =0.4 (228)
